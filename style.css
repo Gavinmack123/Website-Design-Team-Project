@@ -23,3 +23,7 @@ body, html {
   color: lightgray;
   font-size: large;
 }
+
+.center-text {
+  text-align: center;
+}
