@@ -16,7 +16,7 @@ body, html {
 
 .image-banner2{
   
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Food1.jpeg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Breakfast.png");
 
   height: 50%;
 
@@ -28,7 +28,7 @@ body, html {
 
 .image-banner3{
   
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Food1.jpeg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Lunch.jpeg");
 
   height: 50%;
 
@@ -40,7 +40,7 @@ body, html {
 
 .image-banner4{
   
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Food1.jpeg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Dinner.jpeg");
 
   height: 50%;
 
