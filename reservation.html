@@ -73,6 +73,17 @@
           <br>
           <input type="text" id="num-people" name="num-people">
         </form>
+
+        <button class="btn" type="button">Submit</button>
+
+        <script>
+
+          var conNum = Math.random() * (999 - 1) + 1;
+
+          $( ".btn" ).on( "click", function() {
+            alert( "Your reservation number is #" + conNum );
+          } );
+        </script>
       </div>
 </body>
 
