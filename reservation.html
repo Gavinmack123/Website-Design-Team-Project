@@ -78,16 +78,10 @@
 
       <script>
 
-if (typeof jQuery == 'undefined') {
-    alert("jQuery is not loaded!");
-  } else {
-        $(document).ready(function() {
-          $("#btn").on("click", function() {
-            var resNum = Math.floor(Math.random() * (999 - 1 + 1)) + 1;
-            alert("Your reservation number is #" + resNum);
-          });
-        });
-      }
+        document.getElementById("btn").addEventListener("click", function() {
+          var resNum = Math.floor(Math.random() * (999 - 1 + 1)) + 1;
+          alert("Your reservation number is #" + resNum);
+         });
       </script>
       </div>
 </body>
