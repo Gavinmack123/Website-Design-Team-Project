@@ -1,6 +1,8 @@
-body, html {
+body, html{
+    margin: 0px;
+    padding: 0px;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.65);
+    background-color: rgb(31, 31, 31);
     color: white;
 }
 
@@ -56,7 +58,7 @@ body, html {
   
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Reservations.jpg");
 
-  height: 50%;
+  height: 25%;
 
   background-position: center;
   background-repeat: no-repeat;
@@ -76,4 +78,8 @@ body, html {
 
 .center-text {
   text-align: center;
+}
+
+.form {
+  background-color: rgba(0, 0, 0, 0.65);
 }
