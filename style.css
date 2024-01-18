@@ -84,3 +84,10 @@ body, html{
   background-color: rgb(34, 34, 34);
 }
 
+.bright {
+  background-color: rgb(50, 50, 50);
+}
+
+.med-bright {
+  background-color: rgb(40, 40, 40);
+}
